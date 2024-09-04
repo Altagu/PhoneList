@@ -1,0 +1,10 @@
+Opret en klasse kaldet TelefonListen som har et map som field
+Lav kommunikation med en bruger i din main klasse således at brugeren får en menu (tip: switch) hvor de kan vælge at oprette en person med et telefonnummer
+Lav koden så du kan kalde “en opret ny kontakt” metode på din liste, opret mindst 10 personer
+Lav en toString metode så listen kan printe sig selv ud i et pænt format (printf) og tilføj muligheden til menuen
+Lav en søgemetode som kan kaldes på listen der returnere telefonnummeret op den søgte, incl. menupunkt
+Lav en slette metode som kan kaldes på listen og som sletter en person i listen, incl. menupunkt
+Lav et menupunkt med tilhørende kode som kan svare på om en søgt person er på listen
+Lav et menupunkt som kan udskrive en liste af navnene (kun navnene) på alle der er på listen
+Lav kode som gemmer al information fra listen i en fil
+Lav kode som fylder listen op med informationerne fra filen ved opstart af programmet og altid overskriver filen med informationen fra den aktuelle liste ved nedlukning af program
